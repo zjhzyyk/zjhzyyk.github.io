@@ -1,0 +1,27 @@
+{"frames": [
+{
+	"filename": "bird0",
+	"frame": {"x":0,"y":0,"w":92,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":64},
+	"sourceSize": {"w":92,"h":64}
+},
+{
+	"filename": "bird1",
+	"frame": {"x":92,"y":0,"w":92,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":64},
+	"sourceSize": {"w":92,"h":64}
+},
+{
+	"filename": "bird2",
+	"frame": {"x":184,"y":0,"w":92,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":64},
+	"sourceSize": {"w":92,"h":64}
+}
+]
+}
